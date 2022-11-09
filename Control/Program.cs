@@ -1,5 +1,5 @@
 ﻿int m = 3;
-int size = 6;
+int size = 5;
 string[] arrayOne = new string[size];
 Console.WriteLine($"Введите набор символов {size} раз без пробелов");
 FillArray(arrayOne);
